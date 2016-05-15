@@ -1,4 +1,4 @@
-package frdext;
+package org.apodhrad.frd.manager;
 
 public class FrdException extends RuntimeException {
 

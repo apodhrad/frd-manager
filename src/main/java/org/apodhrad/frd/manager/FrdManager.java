@@ -1,4 +1,4 @@
-package frdext;
+package org.apodhrad.frd.manager;
 
 import java.io.File;
 import java.lang.reflect.Method;
